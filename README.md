@@ -22,3 +22,4 @@ Then run this command to start your local server
 
 npm start
 Example Pages
+<img width="320" alt="68747470733a2f2f692e6962622e636f2f573667333977332f696d6167652e706e67" src="https://github.com/chandraprakash22gyl/Admin_dashborad/assets/155667417/0d19f747-ea71-440b-b126-a2a76e7ead60">
